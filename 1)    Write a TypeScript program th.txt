@@ -1,0 +1,16 @@
+1)    Write a TypeScript program that calculates the area of a
+circle.
+Ans=> To write the program for calculating the area of circle .I simply created a function
+with area and assign parameter radius with data type number and return data type number
+then use a formulae Math.PI * radius * radius and then created a variable areaofcircle with data type number assign 5.
+In lastly i console log with tofixed(2) and the codes runs successfully with output 78.54.
+
+
+
+2) Write a TypeScript program that calculates the area of a
+triangle.
+Ans=> First i created a function areaoftriangle with parameters base and height 
+with data type number and return data type number 
+in logic i write a formulae 0.5 * base * height
+and later base and height with 5 and 10 
+and the code successfully runs with the answer 25.
